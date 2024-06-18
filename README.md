@@ -85,12 +85,9 @@ from ultralytics import YOLO
 ## Contributing
 Feel free to fork this project, submit pull requests, and contribute to improving the system. Any contributions are highly appreciated!
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov8) for the object detection model.
 - [OpenCV](https://opencv.org/) for the computer vision library.
 - [Pillow](https://python-pillow.org/) for image handling.
 
-```
+
