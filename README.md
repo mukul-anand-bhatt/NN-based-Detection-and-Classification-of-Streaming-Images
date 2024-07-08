@@ -1,6 +1,6 @@
 # NN based Detection and Classification of Streaming Images
  
-Sure! Here's a sample README file for your surveillance system project using YOLO v8 in Python:
+
 
 ```markdown
 # Surveillance System using YOLO v8
