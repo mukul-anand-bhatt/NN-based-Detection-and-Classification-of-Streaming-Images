@@ -48,13 +48,13 @@ These are standard libraries that come with Python.
    <br>
    <div style="text-align: center;">
       <h2>Home screen</h2>
-      <img src="./Test_Run/Home.png" alt="Home" width="600" height="400">
+      <img src="./Test_Run/Home.png" alt="Home Screen" width="600" height="400">
       <h2>Motion Detection</h2>
-      <img src="./Test_Run/Motion.png" alt="Home" width="600" height="700">
+      <img src="./Test_Run/Motion.png" alt="Motion Detection" width="600" height="700">
       <h2>Object Classification</h2>
-      <img src="./Test_Run/Classification-1.png" alt="Home" width="600" height="400">
-      <img src="./Test_Run/Classification-2.png" alt="Home" width="600" height="400">
-      <img src="./Test_Run/Classification-3.png" alt="Home" width="600" height="400">
+      <img src="./Test_Run/Classification-1.png" alt="Phone" width="600" height="400">
+      <img src="./Test_Run/Classification-2.png" alt="Remote" width="600" height="400">
+      <img src="./Test_Run/Classification-3.png" alt="Bottle" width="600" height="400">
       <hr>
    </div>
 
