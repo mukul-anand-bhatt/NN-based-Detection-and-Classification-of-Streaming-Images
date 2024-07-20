@@ -45,6 +45,8 @@ These are standard libraries that come with Python.
    python main.py
    ```
    <br>
+   [Tutorial](https://youtu.be/l3YYAclkt1U)
+   <br>
    <br>
    <div style="text-align: center;">
       <h2>Home screen</h2>
