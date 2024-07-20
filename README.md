@@ -1,23 +1,23 @@
 # NN based Detection and Classification of Streaming Images
 
- 
 ## Surveillance System using YOLO v8
 
 This project implements a real-time surveillance system using the YOLO v8 object detection algorithm in Python. The system can detect and track various objects in a video feed, making it suitable for applications in security and monitoring.
 
-### Features
+## Features
 - Real-time object detection and tracking
 - Integration with video feeds
 - User-friendly GUI for ease of use
 - Save detection results with timestamps
 
-### Installation
+## Installation
 
 ### Prerequisites
 Make sure you have Python 3.x installed on your system.
 
 ### Libraries
 Install the required libraries using pip:
+
 ```bash
 pip install opencv-python-headless
 pip install Pillow
@@ -36,14 +36,29 @@ These are standard libraries that come with Python.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/surveillance-system-yolov8.git
-   cd surveillance-system-yolov8
+   git clone https://github.com/mukul-anand-bhatt/NN-based-Detection-and-Classification-of-Streaming-Images.git
+   cd NN-based-Detection-and-Classification-of-Streaming-Images
    ```
 
 2. **Run the application:**
    ```bash
    python main.py
    ```
+   <br>
+   https://youtu.be/l3YYAclkt1U
+   <br>
+   <br>
+   <div style="text-align: center;">
+      <h2>Home screen</h2>
+      <img src="./Test_Run/H.png" alt="Home Screen" width="600" height="400">
+      <h2>Motion Detection</h2>
+      <img src="./Test_Run/M.png" alt="Motion Detection" width="600" height="700">
+      <h2>Object Classification</h2>
+      <img src="./Test_Run/C1.png" alt="Phone" width="600" height="400">
+      <img src="./Test_Run/C2.png" alt="Remote" width="600" height="400">
+      <img src="./Test_Run/C3.png" alt="Bottle" width="600" height="400">
+      <hr>
+   </div>
 
 ### GUI Components
 - **Load Video:** Load a video file for processing.
@@ -54,12 +69,7 @@ These are standard libraries that come with Python.
 
 ### main.py
 The main file that starts the application and initializes the GUI.
-
-### yolo_detection.py
-Contains the logic for loading the YOLO v8 model and performing object detection on video frames.
-
-### gui.py
-Handles the graphical user interface using Tkinter, allowing users to interact with the application easily.
+It also contains the logic for loading the YOLO v8 model and performing object detection on video frames.
 
 ## Libraries Used
 
@@ -87,5 +97,3 @@ Feel free to fork this project, submit pull requests, and contribute to improvin
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/yolov8) for the object detection model.
 - [OpenCV](https://opencv.org/) for the computer vision library.
 - [Pillow](https://python-pillow.org/) for image handling.
-
-
