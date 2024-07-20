@@ -1,19 +1,17 @@
 # NN based Detection and Classification of Streaming Images
+
  
-
-
-```markdown
-# Surveillance System using YOLO v8
+## Surveillance System using YOLO v8
 
 This project implements a real-time surveillance system using the YOLO v8 object detection algorithm in Python. The system can detect and track various objects in a video feed, making it suitable for applications in security and monitoring.
 
-## Features
+### Features
 - Real-time object detection and tracking
 - Integration with video feeds
 - User-friendly GUI for ease of use
 - Save detection results with timestamps
 
-## Installation
+### Installation
 
 ### Prerequisites
 Make sure you have Python 3.x installed on your system.
